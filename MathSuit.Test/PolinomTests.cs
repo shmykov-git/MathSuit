@@ -56,10 +56,8 @@ namespace MathSuit.Test
         /// That's was my beginning to become not so clever
         /// Day by day I was coming a little bit stupider and stupider
         /// So... one day I reach the mind position where the most stupid class ever can be implemented
-        /// You will never find something like RationalPolinom class because there is no need to have
-        /// 
-        /// So... The most stupid class has been implemented by me now and I fill that I start to become smarter day by day...
-        /// What story do you have my friend?
+        /// (I believe you will never find something like RationalPolinom class because there is no need to have it)
+        /// So... The most stupid class had been implemented by me and I stated to feel that I becoming clever day by day again...
         /// </summary>
         [TestMethod]
         public void RationalPolinomDivTest()
