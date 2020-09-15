@@ -24,6 +24,10 @@ namespace MathSuit.Test
             Assert.AreEqual((decimal)Da, -214170, "Incorrect Matrix Da");
         }
 
+        /// <summary>
+        /// This is very base method in 3D geometry
+        /// To be able to find planes intersection for example
+        /// </summary>
         [TestMethod]
         public void KramerTest()
         {
